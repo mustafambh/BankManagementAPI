@@ -1,0 +1,6 @@
+@Bnck_HostAddress = http://localhost:5227
+
+GET {{Bnck_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
